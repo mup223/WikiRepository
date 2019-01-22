@@ -2,13 +2,16 @@
 
 ## Table of Contents
 
-<!-- TOC -->
-- [Overview](#overview)
-- [General Workflow](#general)
-- [Detailed Workflow](#detailed)
-- [PostgreSQL Data Structure](#postgres)
-- [Getting the data into Postgres](#postgresinto)
-- [General QA Procedures](#QA)
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Updating GeoCall Map Data](#updating-geocall-map-data)
+	- [Table of Contents](#table-of-contents)
+	- [Overview](#overview)
+	- [General Workflow](#general-workflow)
+	- [Detailed Workflow](#detailed-workflow)
+	- [PostgreSQL Data Structures](#postgresql-data-structures)
+	- [General QA Procedures](#general-qa-procedures)
+
 <!-- /TOC -->
 
 ## Overview
