@@ -40,8 +40,8 @@ This documentation is intended to guide you through updating the map data that i
   - The database I currently use is located here:
     - Host: GEOSTORE
     - Port: 5433
-    - Username: postgres
-    - Password: SpiDee11
+    - Username: ######
+    - Password: ######
     - Database: BaseMapUpdates
   - Each County has a corresponding database schema.
   - There are four elements that usually need updating in each County and there are tables in the schema that correspond to each:
